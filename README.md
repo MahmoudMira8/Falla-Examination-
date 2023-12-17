@@ -58,5 +58,5 @@ Developed by [Mohamed Saleh, Mahmoud Mira, Ahmed Hisham, Amr Ehab, Mina Nagy]
 Visit [Falla website](https://www.falla.fun/) to explore the platform in action!
 
 ## Note to Reviewers
-This repository contains code developed for a real client. The code and files within this repository are confidential and proprietary to the client. Therefore, it's essential to note that this repository is not intended for public access or distribution. Please refrain from sharing or publishing any part of this codebase without explicit permission from the client or the development team.
+This repository contains code developed for a real client. The code and files within this repository are confidential and proprietary to the client. Therefore, it's essential to note that this repository is not intended for public access or distribution.
 
